@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "The Go Programming Language",
+    "author": "Alan A. A. Donovan",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "price": 30
+  }
+]
